@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "O8ViPZpI08mHjoWE4YsjMdS+YBISzEZ3+DdtdnIk0pg=",
+  "Source": "codedojo-textToSpeeck",
+  "BasePath": "_content/codedojo-textToSpeeck",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "codedojo-textToSpeeck\\wwwroot",
+      "Source": "codedojo-textToSpeeck",
+      "ContentRoot": "C:\\Users\\47417895867\\Desktop\\codedojo-textToSpeeck\\wwwroot\\",
+      "BasePath": "_content/codedojo-textToSpeeck",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\47417895867\\Desktop\\codedojo-textToSpeeck\\wwwroot\\audios\\52908d87-ff41-4bd0-9d9b-fd973b34da16.wav",
+      "SourceId": "codedojo-textToSpeeck",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47417895867\\Desktop\\codedojo-textToSpeeck\\wwwroot\\",
+      "BasePath": "_content/codedojo-textToSpeeck",
+      "RelativePath": "audios/52908d87-ff41-4bd0-9d9b-fd973b34da16.wav",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\audios\\52908d87-ff41-4bd0-9d9b-fd973b34da16.wav"
+    }
+  ]
+}

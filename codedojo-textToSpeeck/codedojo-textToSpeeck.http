@@ -1,0 +1,6 @@
+@codedojo_textToSpeeck_HostAddress = http://localhost:5278
+
+GET {{codedojo_textToSpeeck_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
