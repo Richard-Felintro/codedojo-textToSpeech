@@ -23,7 +23,6 @@ namespace codedojo_textToSpeeck.Controllers
         }
 
 
-        //tiramos o [] dps do string
         [HttpPost("TextToSpeech")]
         public async Task<IActionResult> TextToSpeech(string text)
         {

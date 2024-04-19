@@ -21,11 +21,11 @@ namespace codedojo_textToSpeeck.Utils
         //Tiramos o static dps do async
         public async Task<string> TextToSpeech(string texto)
         {
-            var caminho = System.IO.Path.GetDirectoryName(Assembly.GetEntryAssembly().Location);
+            
 
             var speechConfig = SpeechConfig.FromSubscription(speechKey, speechRegion);
 
-            using var audioConfig = AudioConfig.FromWavFileOutput(Directory.GetCurrentDirectory() + "/Audios/result.wav");
+            using var audioConfig = AudioConfig.FromWavFileOutput(Directory.GetCurrentDirectory() + "/../speechoappa/src/assets/audioOutput.wav");
 
             //speechConfig.SpeechSynthesisVoiceName = "pt-BR";
             

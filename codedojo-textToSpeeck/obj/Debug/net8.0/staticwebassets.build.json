@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "O8ViPZpI08mHjoWE4YsjMdS+YBISzEZ3+DdtdnIk0pg=",
+  "Hash": "rPOmnlsGgvC8i+u/IzTzvWvYsqnga+c7Pq1MPwg64XY=",
   "Source": "codedojo-textToSpeeck",
   "BasePath": "_content/codedojo-textToSpeeck",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "codedojo-textToSpeeck\\wwwroot",
       "Source": "codedojo-textToSpeeck",
-      "ContentRoot": "C:\\Users\\47417895867\\Desktop\\codedojo-textToSpeeck\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\54454818835\\Desktop\\codedojo-textToSpeech\\codedojo-textToSpeeck\\wwwroot\\",
       "BasePath": "_content/codedojo-textToSpeeck",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\47417895867\\Desktop\\codedojo-textToSpeeck\\wwwroot\\audios\\52908d87-ff41-4bd0-9d9b-fd973b34da16.wav",
+      "Identity": "C:\\Users\\54454818835\\Desktop\\codedojo-textToSpeech\\codedojo-textToSpeeck\\wwwroot\\audios\\52908d87-ff41-4bd0-9d9b-fd973b34da16.wav",
       "SourceId": "codedojo-textToSpeeck",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47417895867\\Desktop\\codedojo-textToSpeeck\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\54454818835\\Desktop\\codedojo-textToSpeech\\codedojo-textToSpeeck\\wwwroot\\",
       "BasePath": "_content/codedojo-textToSpeeck",
       "RelativePath": "audios/52908d87-ff41-4bd0-9d9b-fd973b34da16.wav",
       "AssetKind": "All",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("codedojo-textToSpeeck")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc2346422ddb05c9a11a6308993e4c3f9ad13584")]
 [assembly: System.Reflection.AssemblyProductAttribute("codedojo-textToSpeeck")]
 [assembly: System.Reflection.AssemblyTitleAttribute("codedojo-textToSpeeck")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
